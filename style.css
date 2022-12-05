@@ -1,0 +1,119 @@
+h1,h2{
+    color: #6581d5;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+}
+
+body{
+    padding-top: 20px;
+    padding-left: 50px;
+    background-image: url(libre.png);
+    /* background-repeat: no-repeat; */
+    background-size: 1000px 1000px;
+}
+.a1{
+    font-family: 'Inconsolata', monospace;
+    color: #7063ad;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.a2{
+    font-family: 'Inconsolata', monospace;
+    color: #7063ad;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.a3{
+    font-family: 'Inconsolata', monospace;
+    color: #7063ad;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.a4{
+    font-family: 'Inconsolata', monospace;
+    color: #7063ad;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.a5{
+    font-family: 'Inconsolata', monospace;
+    color: #7063ad;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.cuadro1{
+    border-color: #6581d5;
+    margin-left: 60px;
+}
+.cuadro1:hover{
+    background-color: aliceblue;
+}
+.cuadro2{
+    border-color: #6581d5;
+}
+.cuadro2:hover{
+    background-color: aliceblue;
+}
+.cuadro3{
+    border-color: #6581d5;
+    margin-left: 51px;
+}
+.cuadro3:hover{
+    background-color: aliceblue;
+}
+.cuadro4{
+    margin-left: 51px;
+    border-color: #6581d5;
+}
+.cuadro4:hover{
+    background-color: aliceblue;
+}
+.cuadro5{
+    border-color: #6581d5;
+}
+.cuadro5:hover{
+    background-color: aliceblue;
+}
+.cuadro6{
+    border-color: #6581d5;
+}
+.cuadro6:hover{
+    background-color: aliceblue;
+}
+.cuadro7{
+    margin-left: 8px;
+    border-color: #6581d5;
+}
+.cuadro7:hover{
+    background-color: aliceblue;
+}
+.cuadro8{
+    border-color: #6581d5;
+    margin-left: 79px;
+    padding-bottom: 80px;
+    padding-right: 359px;
+}
+.cuadro8:hover{
+    background-color: aliceblue;
+    ;
+}
+.boton{
+    border-color: #3e458b;
+    background-color: transparent;
+    border-radius: 5px;
+    margin-left: 700px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    position: relative;
+}
+.boton:active{
+background-color: #b178a712;
+background: #ee9ca7;
+background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);
+background: linear-gradient(to right, #ffdde1, #ee9ca7);
+filter: blur(1px);
+z-index: -1;
+}
